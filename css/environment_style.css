@@ -1,0 +1,41 @@
+p{
+    text-indent: 100px;
+    padding: 70px 20px 100px 10px;
+    border: peru 5px solid;
+    margin: 70px 20px 100px 10px;
+    background-color: white;
+    font-weight: 100px;
+}
+.ex{
+    padding: 70px;
+}
+.r{
+    line-height: 10px;
+}
+.e{
+    letter-spacing: 19px;
+    word-spacing: 20px;
+    text-transform:uppercase;
+}
+#q{
+    text-transform:capitalize;
+}
+.p1{
+    text-shadow: purple 6px 40px 100px;
+}
+.hp4{
+    border-color: blueviolet;
+    border-width: 10px;
+    border-style: dashed;  
+    /* dotted,double,solid, none  */
+}
+body{
+    background-image: url(https://sites.google.com/site/prirodanasevseegooglgfgf/_/rsrc/1463456237313/home/priroda_gory_nebo_ozero_oblaka_81150_1920x1080.jpg);
+    
+}
+h2{
+    color: white;
+}
+.y{
+    padding: 100px;
+}
