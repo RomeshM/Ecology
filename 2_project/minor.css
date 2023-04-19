@@ -6,24 +6,26 @@ h1{
     text-align: center;
     margin-top: 25px;
     color:#1B13AF;
-    ;
 }
 .enlarge-image{
-    height: auto;
-    width: 400px;
-    padding-left: 550px;
+    width: 100%;
     margin-top: 25px;
 }
-.indent{
-    padding-left: 160px;
+.text1{
+    float: left;
+}
+.text2{
+    float: right;
+}
+.raw:after{
+    content:'';
+    display:table;
+    clear:both;  
 }
 h3{
-    padding-left: 550px;
+    color:#1B13AF; 
+    
 }
-.row {
-    display: flex;
-    flex-direction: row;
+.raw{
+    font-size: 20px;
 }
-.text1, .text2 {
-    margin-right: 10px;
-  }
