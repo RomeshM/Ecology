@@ -1,0 +1,29 @@
+body{
+    background-color: #B4D2FF;
+
+}
+h1{
+    text-align: center;
+    margin-top: 25px;
+    color:#1B13AF;
+    ;
+}
+.enlarge-image{
+    height: auto;
+    width: 400px;
+    padding-left: 550px;
+    margin-top: 25px;
+}
+.indent{
+    padding-left: 160px;
+}
+h3{
+    padding-left: 550px;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.text1, .text2 {
+    margin-right: 10px;
+  }

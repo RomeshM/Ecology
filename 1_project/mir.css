@@ -12,7 +12,6 @@ h2{
 .p1{
     text-decoration: underline;
     font-size: 26px;
-    padding-left: 80px;
 }
 body{
     background-color:#E3DFE7;
@@ -20,7 +19,6 @@ body{
 }
 th{
     border: black 2px solid; 
-    padding-left: 80px; 
 }
 .table1{
     border:black 2px solid;
@@ -35,6 +33,9 @@ th{
 .p2{
     font-size: 20px;
     padding-left: 80px ;   
+}
+ul{
+    margin-left: -20px;
 }
 h3{
     font-size: 28px;
