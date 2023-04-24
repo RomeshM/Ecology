@@ -29,3 +29,17 @@ h3{
 .raw{
     font-size: 20px;
 }
+table, td{
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+
+
+
+
+
+
+
+
+
+/* display:inline-block */

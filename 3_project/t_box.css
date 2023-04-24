@@ -1,0 +1,57 @@
+@font-face{
+	font-family: 'Work Sans'; 
+	src: url(Fonts/WorkSans-Medium.ttf); 
+}
+h2{
+    color:#2947A9; 
+    /* padding-left: 120px;  */
+    font-style: italic;
+    font-family: 'Work Sans';
+    display: inline-block;
+    vertical-align: middle;
+}
+.hero{
+    width: 100%;
+}
+.web_name{
+    float: left;
+}
+.categories{
+   float: right;
+   margin-right: 30px;
+   font-size: 14px;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 45px;
+}
+.ct{
+    display: inline-block;
+    margin-right: 37px;
+}
+div{
+    font-family: 'Work Sans';
+}
+.icon1{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 81px;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+.links:hover{
+    color:#F9995D;
+}
+.reasons{
+    display: inline-block;
+    margin-left: 100px;
+    border: #E0E3EB 2px solid;
+    padding: 16px 16px 30px 16px;
+}
+.Reputation_reasons{
+   margin-left: 200px;
+   margin-top: 70px;
+}
