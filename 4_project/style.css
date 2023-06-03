@@ -50,7 +50,7 @@ button{
     color: white;
 }
 .image{
-    width:4 00px;
+    width:400px;
 }
 .main{
     display: inline-block;
@@ -208,10 +208,10 @@ h2{
         text-align: center;
     }
     .desktop_image{
-        display: block;
+        display: none;
     }
     .mobile_image{
-        display: none;
+        display: block;
     }
 }
 @media (min-width:700px) {
@@ -222,3 +222,5 @@ h2{
         display: none;
     }
 }
+
+
