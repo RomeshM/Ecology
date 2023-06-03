@@ -201,12 +201,9 @@ p{
     }
     .desktop_image{
         display: none;
-<<<<<<< HEAD
     }
     .mobile_image{
         display: block;
-=======
->>>>>>> b26921787db0eaccc58e5fbe9766962b3ef90b9f
     }
     .mobile_image{
         display: block;
