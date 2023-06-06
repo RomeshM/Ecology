@@ -74,21 +74,21 @@ button{
 }
 
 .blog_h_parent{
-    margin: 0 200px 32px 200px;
+    /* margin: 0 200px 32px 200px; */
 }
 .rectangle_blog_l{
     background-color: white;
     /* float: left; */
     padding: 25px;
     font-weight: 600;
-    width: 450px;
+    /* width: 450px; */
 }
 .rectangle_blog_r{
     background-color: white;
     /* float: right; */
     padding: 25px;
     font-weight: 600;
-    width: 450px;
+    /* width: 450px; */
 }
 .date2{
     display: inline-block;
@@ -221,10 +221,10 @@ p{
         font-size: 32px;
     }
     .p_intro{
-        width: 312px;
+        width: 327px;
         text-align: center;
-        border: #00A8CC 2px solid;
-        /* margin: 16px 25px; */
+        /* border: #00A8CC 2px solid; */
+        margin: 16px 25px;
     }
     .blog_left{
         text-align: center;
